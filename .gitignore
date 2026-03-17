@@ -1,4 +1,6 @@
 node_modules/
 .env
-.DS_Store
+*.zip
+*.rar
 *.log
+.DS_Store
